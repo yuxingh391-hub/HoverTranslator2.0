@@ -32,6 +32,18 @@ HoverTranslator 是一款 Windows 悬浮翻译工具，集成 Windows OCR（光�
 |:---:|:---:|
 | ![扩展词库](assets/screenshots/03_extension_packs.png) | ![个人术语](assets/screenshots/04_personal_glossary.png) |
 
+<!-- BEGIN D7-6D-6E USER DOCUMENTS -->
+## 下载、使用与反馈
+
+**当前尚无获准公开下载的软件包。** `v0.7.21-rc.1` 已完成本地功能及打包测试，但发行候选仍处于 HOLD，不代表可以对外分发。
+
+- [Windows Portable 使用说明](docs/QUICK_START_zh-CN.md)
+- [问题反馈与隐私提示](docs/FEEDBACK_zh-CN.md)
+- [发布状态](docs/RELEASE_STATUS.md)
+- [提交问题或功能建议](https://github.com/yuxingh391-hub/HoverTranslator2.0/issues/new/choose)
+
+<!-- END D7-6D-6E USER DOCUMENTS -->
+
 ## 授权模式
 
 HoverTranslator 计划允许免费使用获准发行的官方软件，**但不公开完整原创源代码，也不授予他人对专有部分的商业再分发或二次开发权利**。具体以随正式发行包提供的最终用户许可为准。上游 MIT、Apache-2.0、CC BY 4.0 等第三方材料的权利仍按原许可证独立处理。
