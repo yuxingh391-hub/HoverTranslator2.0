@@ -18,11 +18,13 @@ HoverTranslator 是一款 Windows 悬浮翻译工具，集成 Windows OCR（光�
 
 ### 单词查询
 
-单词翻译演示截图准备中。
+![Ctrl + Hover 单词翻译](assets/screenshots/01_word_lookup.png)
+
 
 ### 整句翻译
 
-整句翻译演示截图准备中。
+![Alt + Hover 整句翻译](assets/screenshots/02_sentence_translation.png)
+
 
 ### 术语与扩展词库
 
