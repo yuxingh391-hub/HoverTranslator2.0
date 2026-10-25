@@ -1,0 +1,13 @@
+# No executable or model in the public showcase until explicit clearance
+*.exe
+*.dll
+*.pyd
+*.gguf
+*.db
+*.onnx
+*.pt
+*.pth
+*.zip
+__pycache__/
+.venv/
+.DS_Store
