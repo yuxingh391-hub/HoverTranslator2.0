@@ -4,7 +4,24 @@
 
 HoverTranslator 是一款 Windows 悬浮翻译工具，集成 Windows OCR（光学字符识别）、本地词典和离线英译中后端。目标是让用户在技术文档、网页或其他桌面界面阅读英文时，以鼠标悬停完成查词和整句翻译。
 
-> **发布状态：尚未公开提供完整版软件下载。** 当前私有开发仓库的 Portable 发行候选包已通过静态完整性校验；部分第三方再分发权及此前 Windows Defender `Trojan:Win32/Bearfoos.B!ml` 检测仍待澄清。不要关闭安全防护以运行被拦截的文件。[查看详细状态](docs/RELEASE_STATUS.md)
+## 下载 HoverTranslator
+
+**HoverTranslator v0.7.21-rc.1 — Windows 64 位预览版**
+
+[**下载 HoverTranslator Windows Portable 版本**](https://github.com/yuxingh391-hub/HoverTranslator2.0/releases/tag/v0.7.21-rc.1)
+
+支持 Windows 10 / 11 64 位系统，解压后运行 `HoverTranslator.exe`，无需另外安装 Python 或 Conda。
+
+**主要功能：**
+- Ctrl + Hover：离线单词和短语翻译
+- Alt + Hover：OCR 识别及句子翻译
+- 完整 ECDICT 离线词典
+- 本地 AI 翻译模型
+- 个人术语库与专业扩展词库
+
+**版本状态：** 当前为公开预览版，已通过开发者执行的主要功能及离线测试。部分第三方组件再分发条件仍待确认；历史 Defender 检测尚未获得独立复核结论。此版本不应视为已经完成全部授权及安全认证的稳定版本。
+
+[使用说明](docs/QUICK_START_zh-CN.md) · [提交问题与功能建议](https://github.com/yuxingh391-hub/HoverTranslator2.0/issues)
 
 ## 功能特点
 
